@@ -2,7 +2,8 @@
 
 Lazedude built the following apps. This SERVICE is provided by Lazedude at no cost and is intended for use as is.
 1. Astromer (Watch Face)
-2. Planet's
+2. Planet's (Watch Face)
+3. Icy (Watch Face)
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
