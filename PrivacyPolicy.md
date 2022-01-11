@@ -1,6 +1,7 @@
 ## Privacy Policy
 
-Lazedude built the Astromer watch face- .This SERVICE is provided by Lazedude at no cost and is intended for use as is.
+Lazedude built the following apps. This SERVICE is provided by Lazedude at no cost and is intended for use as is.
+1. Astromer (Watch Face)
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
