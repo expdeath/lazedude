@@ -7,6 +7,7 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 4. Poke (Watch Face)
 5. Battery Bar (Watch Face)
 6. Rings (Watch Face)
+7. Landscape (Watch Face)
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
