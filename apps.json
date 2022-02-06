@@ -1,31 +1,31 @@
 [
 	{
 		"packageName": "com.watchfacestudio.planets",
-		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Planets.png?raw=true",
 		"name": "Planet's",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.planets"
 	},
 	{
 		"packageName": "com.watchfacestudio.icy2",
-		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/icy.png?raw=true",
 		"name": "Icy",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.icy2"
 	},
 	{
 		"packageName": "com.watchfacestudio.neonloons",
-		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/neonloons.png?raw=true",
 		"name": "Neonloons",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.neonloons"
 	},
 	{
 		"packageName": "com.watchfacestudio.astronear",
-		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Astromer.png?raw=true",
 		"name": "Astromer",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.astronear"
 	},
 	{
 		"packageName": "com.watchfacestudio.fallen",
-		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/fallen.png?raw=true",
 		"name": "Fallen",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fallen"
 	}
