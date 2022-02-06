@@ -22,5 +22,11 @@
 		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
 		"name": "Astromer",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.astronear"
+	},
+	{
+		"packageName": "com.watchfacestudio.fallen",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/Icon.png.png?raw=true",
+		"name": "Fallen",
+		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fallen"
 	}
 ]
