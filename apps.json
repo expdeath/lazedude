@@ -28,5 +28,17 @@
 		"image": "https://github.com/expdeath/lazedude/blob/main/Images/fallen.png?raw=true",
 		"name": "Fallen",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fallen"
+	},
+	{
+		"packageName": "com.watchfacestudio.batterybar",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/batterybar.png?raw=true",
+		"name": "Battery Bar",
+		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.batterybar"
+	},
+	{
+		"packageName": "com.watchfacestudio.robo",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/robo.png?raw=true",
+		"name": "robo",
+		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.robo"
 	}
 ]
