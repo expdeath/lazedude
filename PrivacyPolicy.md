@@ -12,8 +12,9 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 9. Neonloons (Watch Face)
 10. Comic (Watch Face)
 11. Robo (Watch Face)
-12. Fallen (Watch Face) & companion app for mobile
-13. 
+12. Fallen (Watch Face) & Companion app for mobile
+13. POP (Watch Face) & Companion app for mobile
+
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
