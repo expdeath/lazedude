@@ -4,5 +4,11 @@
 		"options": {
 			"more_apps": false
 		}
+	},
+	{
+		"packageName": "com.watchfacestudio.planets",
+		"options": {
+			"more_apps": false
+		}
 	}
 ]
