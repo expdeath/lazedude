@@ -2,7 +2,7 @@
 	{
 		"packageName": "com.watchfacestudio.carzz",
 		"options": {
-			"more_apps": false
+			"more_apps": true
 		}
 	}
 ]
