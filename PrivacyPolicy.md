@@ -15,6 +15,8 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 12. Fallen (Watch Face) & Companion app for mobile
 13. POP (Watch Face) & Companion app for mobile
 14. Carzz (Watch Face) & Companion app for mobile
+15. Anime Girl (Watch Face) & Companion app for mobile
+
 
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
