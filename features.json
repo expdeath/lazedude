@@ -17,7 +17,7 @@
 		"packageName": "com.watchfacestudio.wavey",
 		"options": {
 			"more_apps": true,
-			"social": false
+			"social": true
 		}
 	}
 ]
