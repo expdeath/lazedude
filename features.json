@@ -2,13 +2,22 @@
 	{
 		"packageName": "com.watchfacestudio.carzz",
 		"options": {
-			"more_apps": false
+			"more_apps": true,
+			"social": false
 		}
 	},
 	{
 		"packageName": "com.watchfacestudio.planets",
 		"options": {
-			"more_apps": false
+			"more_apps": true,
+			"social": false
+		}
+	},
+	{
+		"packageName": "com.watchfacestudio.wavey",
+		"options": {
+			"more_apps": true,
+			"social": false
 		}
 	}
 ]
