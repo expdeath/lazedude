@@ -16,8 +16,14 @@
 	{
 		"packageName": "com.watchfacestudio.wavey",
 		"options": {
+			"more_apps": true,
+			"social": true
+		}
+	},
+	{
+		"packageName": "com.watchfacestudio.ben10",
+		"options": {
 			"more_apps": false,
 			"social": false
 		}
-	}
 ]
