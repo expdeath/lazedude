@@ -7,10 +7,10 @@
 		}
 	},
 	{
-		"packageName": "com.watchfacestudio.planets",
+		"packageName": "com.watchfacestudio.adventure",
 		"options": {
 			"more_apps": true,
-			"social": false
+			"social": true
 		}
 	},
 	{
