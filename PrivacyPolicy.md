@@ -1,9 +1,9 @@
 ## Privacy Policy
 
 Lazedude built the following apps. This SERVICE is provided by Lazedude at no cost and is intended for use as is.
-1. Astromer (Watch Face) & Companion app for mobile
+1. Laze:Astromer (Watch Face) & Companion app for mobile
 2. Planet's (Watch Face)
-3. Icy (Watch Face) & Companion app for mobile
+3. Laze:Icy (Watch Face) & Companion app for mobile
 4. Poke (Watch Face)
 5. Battery Bar (Watch Face)
 6. Rings (Watch Face)
@@ -15,9 +15,10 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 12. Fallen (Watch Face) & Companion app for mobile
 13. POP (Watch Face) & Companion app for mobile
 14. Carzz (Watch Face) & Companion app for mobile
-15. Anime Girl (Watch Face) & Companion app for mobile
-16. Wavey (Watch Face) & Companion app for mobile
-17. Adventure (Watch Face) & Companion app for mobile
+15. Laze:Anime Girl (Watch Face) & Companion app for mobile
+16. Laze:Wavey (Watch Face) & Companion app for mobile
+17. Laze:Laze:Adventure (Watch Face) & Companion app for mobile
+18. Laze:Ben10 (Watch Face) & Companion app for mobile
 
 
 
