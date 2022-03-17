@@ -9,8 +9,8 @@
 	{
 		"packageName": "com.watchfacestudio.adventure",
 		"options": {
-			"more_apps": true,
-			"social": true
+			"more_apps": false,
+			"social": false
 		}
 	},
 	{
