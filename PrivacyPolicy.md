@@ -17,7 +17,7 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 14. Carzz (Watch Face) & Companion app for mobile
 15. Laze:Anime Girl (Watch Face) & Companion app for mobile
 16. Laze:Wavey (Watch Face) & Companion app for mobile
-17. Laze:Laze:Adventure (Watch Face) & Companion app for mobile
+17. Laze:Adventure (Watch Face) & Companion app for mobile
 18. Laze:Ben10 (Watch Face) & Companion app for mobile
 
 
