@@ -2,8 +2,8 @@
 	{
 		"packageName": "com.watchfacestudio.carzz",
 		"options": {
-			"more_apps": true,
-			"social": true
+			"more_apps": false,
+			"social": false
 		}
 	},
 	{
