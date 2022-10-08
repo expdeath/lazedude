@@ -53,5 +53,11 @@
 		"image": "https://github.com/expdeath/lazedude/blob/main/Images/animegirl.png?raw=true",
 		"name": "Animegirl",
 		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.animegirl"
+	},
+	{
+		"packageName": "com.watchfacestudio.beach",
+		"image": "https://github.com/expdeath/lazedude/blob/main/Images/beach.png?raw=true",
+		"name": "Beach",
+		"url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.beach"
 	}
 ]
