@@ -21,10 +21,17 @@
 		}
 	},
 	{
-		"packageName": "com.watchfacestudio.ben10",
+		"packageName": "com.watchfacestudio.beach",
 		"options": {
 			"more_apps": false,
 			"social": false
 		}
+	},
+	{
+		"packageName": "com.watchfacestudio.ben10",
+		"options": {
+			"more_apps": false,
+			"social": false
+		}	
 	}
 ]
