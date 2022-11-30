@@ -21,6 +21,7 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 18. Laze:Ben10 (Watch Face) & Companion app for mobile
 19. Laze:Minimal Design (Watch Face) & Companion app for mobile
 20. Laze:Beach (Watch Face) & Companion app for mobile
+21. Laze:People (Watch Face) & Companion app for mobile
 
 
 
