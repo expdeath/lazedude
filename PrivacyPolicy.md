@@ -23,6 +23,7 @@ Lazedude built the following apps. This SERVICE is provided by Lazedude at no co
 20. Laze:Beach (Watch Face) & Companion app for mobile
 21. Laze:People (Watch Face) & Companion app for mobile
 22. Laze:Orange Lines (Watch Face) & Companion app for mobile
+23. Laze:Naturely (Watch Face) & Companion app for mobile
 
 
 
